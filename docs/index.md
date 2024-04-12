@@ -18,7 +18,7 @@ hero:
       link: "/intro/"
     - theme: alt
       text: GitHub
-      link: https://github.com/vuejs/vitepress
+      link: https://github.com/150098399/m-components
 
 features:
   - icon: 🛠️
