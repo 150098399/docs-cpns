@@ -4,8 +4,8 @@ const date = new Date().getFullYear();
 export default defineConfig({
   lang: "zh-Hans",
   title: 'LiComponents',
-  base: './',
-  head: [['link', { rel: 'icon', href: '/title.svg' }]],
+  base: '/docs-cpns/',
+  head: [['link', { rel: 'icon', href: 'docs-cpns/title.svg' }]],
   themeConfig: {
     nav: [
       {
