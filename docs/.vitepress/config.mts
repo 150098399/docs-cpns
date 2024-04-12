@@ -5,7 +5,7 @@ export default defineConfig({
   lang: "zh-Hans",
   title: 'LiComponents',
   base: '/docs-cpns/',
-  head: [['link', { rel: 'icon', href: '/docs-cpns/title.svg' }]],
+  head: [['link', { rel: 'icon', href: 'https://github.com/150098399/docs-cpns/blob/main/docs/title.svg' }]],
   themeConfig: {
     nav: [
       {
