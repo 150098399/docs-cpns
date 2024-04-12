@@ -10,7 +10,7 @@ hero:
   text: 基于ElementPlus二次开发的组件库
   tagline: 提升开发效率...
   image:
-    src: ./logo.png
+    src: /main/docs/logo.png
     alt: LiComponents
   actions:
     - theme: brand
