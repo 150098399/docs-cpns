@@ -45,6 +45,10 @@ export default defineConfig({
         link: '/table/'
       }
     ],
+    editLink: {
+      pattern: 'https://github.com/150098399/docs-cpns/tree/main/docs/:path',
+      text: '在 GitHub 上编辑此页面'
+    },
     footer: {
       message: '基于 MIT 许可发布',
       copyright: `版权所有©  ${date} 李陇杰`,
