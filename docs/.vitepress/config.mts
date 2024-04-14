@@ -14,7 +14,7 @@ export default defineConfig({
       },
       {
         text: 'github站点',
-        link: 'https://github.com/150098399/m-components',
+        link: 'https://150098399.github.io/li-components/#/',
         target: '_blank'
       },
       {
